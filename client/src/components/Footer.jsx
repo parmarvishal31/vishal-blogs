@@ -27,13 +27,13 @@ export default function FooterCom() {
             <div>
               <Footer.Title title="About" />
               <Footer.LinkGroup col>
-                <Footer.Link
+                {/* <Footer.Link
                   href="https://www.100jsprojects.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   100 JS Projects
-                </Footer.Link>
+                </Footer.Link> */}
                 <Footer.Link
                   href="/about"
                   target="_blank"
@@ -47,7 +47,7 @@ export default function FooterCom() {
               <Footer.Title title="Follow us" />
               <Footer.LinkGroup col>
                 <Footer.Link
-                  href="https://www.github.com/sahandghavidel"
+                  href="https://github.com/parmarvishal31"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
